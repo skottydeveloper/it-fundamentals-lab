@@ -45,8 +45,8 @@ My goal is to build a good foundation in both user support and infrastructure ma
 ## Timeline
 This lab project is actively in progress as I prepare for certifications including:
 - Microsoft Certified: Azure Fundamentals (AZ-900) *(completed)*
-- Microsoft 365 Fundamentals (MS-900) *(in progress)*
-- Microsoft Security, Compliance & Identity Fundamentals (SC-900) *(planned)*
+- Microsoft 365 Fundamentals (MS-900) *(planned)*
+- Microsoft Security, Compliance & Identity Fundamentals (SC-900) *(in progress)*
 - Microsoft Certified: Endpoint Administrator (MD-102) *(planned)*
 
 Progress will be updated as frequently as possible.
