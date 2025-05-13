@@ -28,11 +28,6 @@ My goal is to build a good foundation in both user support and infrastructure ma
 - [ ] Use `ipconfig`, `ping`, and `tracert` to troubleshoot connectivity.
 - [ ] Simulate DNS or firewall misconfiguration scenarios.
 
-### Printer & Peripheral Support
-- [ ] Set up a networked printer.
-- [ ] Simulate common printer issues (offline, jammed, driver errors).
-- [ ] Document resolution steps.
-
 ### Remote Access Tools
 - [ ] Configure TeamViewer or Chrome Remote Desktop.
 - [ ] Simulate user support sessions and remote troubleshooting.
