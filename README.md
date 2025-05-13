@@ -42,14 +42,6 @@ My goal is to build a good foundation in both user support and infrastructure ma
 - [ ] Create scripts for disk cleanup or device info gathering.
 - [ ] Explore script signing and execution policy basics.
 
-## Tools & Platforms Used
-- Windows 11 (via UTM).
-- Microsoft 365 Admin Portal.
-- Microsoft Intune (planned).
-- PowerShell & CMD.
-- Remote access: TeamViewer, Chrome Remote Desktop.
-- Basic network tools: ipconfig, ping, tracert.
-
 ## Timeline
 This lab project is actively in progress as I prepare for certifications including:
 - Microsoft Certified: Azure Fundamentals (AZ-900) *(completed)*
