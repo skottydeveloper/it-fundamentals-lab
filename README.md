@@ -2,7 +2,7 @@
 
 This personal lab project is designed to simulate real-world IT support and infrastructure scenarios as I transition into a career in IT operations. Over the coming weeks, I’ll be working through hands-on tasks involving Windows 11, Microsoft 365 administration, networking fundamentals, remote support, and device configuration - focusing on the core skills needed in modern IT environments.
 
-My goal is to build a sound foundation in both user support and infrastructure management, including endpoint administration, network troubleshooting, and cloud-based tools like Microsoft Intune and Azure.
+My goal is to build a good foundation in both user support and infrastructure management, including endpoint administration, network troubleshooting, and cloud-based tools like Microsoft Intune and Azure.
 
 ## Objectives
 - Gain hands-on experience supporting Windows 11 and Microsoft 365.
