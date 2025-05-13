@@ -1,1 +1,1 @@
-# it-fundamentals-lab
+# IT Fundamentals Lab
