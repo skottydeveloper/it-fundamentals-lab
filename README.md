@@ -1,6 +1,6 @@
 # IT Fundamentals Lab
 
-This personal lab project is designed to simulate real-world IT support and infrastructure scenarios as I transition into a career in IT operations. Over the coming weeks, I’ll be working through hands-on tasks involving Windows 11, Microsoft 365 administration, networking fundamentals, remote support, and device configuration—focusing on the core skills needed in modern IT environments.
+This personal lab project is designed to simulate real-world IT support and infrastructure scenarios as I transition into a career in IT operations. Over the coming weeks, I’ll be working through hands-on tasks involving Windows 11, Microsoft 365 administration, networking fundamentals, remote support, and device configuration - focusing on the core skills needed in modern IT environments.
 
 My goal is to build a strong foundation in both user support and infrastructure management, including endpoint administration, network troubleshooting, and cloud-based tools like Microsoft Intune and Azure.
 
